@@ -12,7 +12,7 @@ export interface InvestmentInput {
   annualInvestment: number;
 } */
 
-export interface resultDataArray {
+export interface ResultDataArray {
     year: number;
     interest: number;
     valueEndOfYear: number;
